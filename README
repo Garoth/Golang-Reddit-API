@@ -1,0 +1,10 @@
+Google Go Reddit API Wrapper
+============================
+
+Work in progress wrapper for Reddit's API, as described here:
+
+https://github.com/reddit/reddit/wiki/API
+
+This project is not complete and is not in a usable state yet. When it's
+done though, you'll be able to write bots and reddit wrappers pretty
+trivially with your favourite language. (No promise of completion.)
